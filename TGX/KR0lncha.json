@@ -21,188 +21,6 @@
             "ThumbNail": "https://solarishub.dev/Solaris.png",
             "ID" : "2"
         },
-        {
-            "Name": "Anti AFK",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/AntiAFK.lua",
-            "Description":  "Evita el kick por 20 minutos afk",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/anti_afk.png",
-            "ID" : "1"
-        },
-        {
-            "Name": "Apocalypse Rising",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/ApocalypseRising.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/23c10ab3e3bf5546b7c700e225fd4f15.jpg",
-            "ID" : "2"
-        },
-        {
-            "Name": "Bedwars GUI",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/BedWarsGUI.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
-            "ID" : "3"
-        },
-        {
-            "Name": "Bedwars Aimbot",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/BedwarsGUIAimbotYMas.lua",
-            "Description":  "Aimbot y mas!",
-            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
-            "ID" : "4"
-        },
-        {
-            "Name": "Bedwars GUI 3",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/BedwarsScript2.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
-            "ID" : "5"
-        },
-        {
-            "Name": "Bloxfruits GUI",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/BloxFRUITSGUI2.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
-            "ID" : "6"
-        },
-        {
-            "Name": "Bloxfruits GUI 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/BloxFruits.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
-            "ID" : "7"
-        },
-        {
-            "Name": "Combat Warriors GUI",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/CombatWarriors.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/b613dae05739d105e33a35089fdac9fe.jpg",
-            "ID" : "8"
-        },
-        {
-            "Name": "R15 Animaciones",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/FER15Animaciones.lua",
-            "Description":  "Emotes que todos ven",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Template.png",
-            "ID" : "9"
-        },
-        {
-            "Name": "Funky Friday Script 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/FNF.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/8ZEhM90.png",
-            "ID" : "10"
-        },
-        {
-            "Name": "Faded - Da Hood",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/FadedDH.lua",
-            "Description":  "Crash server, fly, lock y mas!",
-            "ThumbNail": "https://i.imgur.com/x2UeSXb.jpg",
-            "ID" : "11"
-        },
-        {
-            "Name": "Jailbreak Autorob",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/JailbreakAUTOROB.lua",
-            "Description":  "Autorob para jailbreak!",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Autorob.jpg",
-            "ID" : "12"
-        },
-        {
-            "Name": "Murder Mistery 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/MM2OP.lua",
-            "Description":  "Kill all, esp, y mas",
-            "ThumbNail": "https://i.imgur.com/IjFiwiI.png",
-            "ID" : "13"
-        },
-        {
-            "Name": "Parkour",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/Parkour.lua",
-            "Description":  "OP!",
-            "ThumbNail": "https://i.imgur.com/vTntCMF.png",
-            "ID" : "14"
-        },
-        {
-            "Name": "Ro Ghoul GUI",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/RoGHOULGUi.lua",
-            "Description":  "Muchas opciones!",
-            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
-            "ID" : "15"
-        },
-        {
-            "Name": "Ro Ghoul - Meehub",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/RoGhoulMEE.lua",
-            "Description":  "Menu de opciones!",
-            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
-            "ID" : "16"
-        },
-        {
-            "Name": "Ro Ghoul GUI 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/RoGhoulgui2.lua",
-            "Description":  "Otro menu!",
-            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
-            "ID" : "17"
-        },
-        {
-            "Name": "Shindo Life 2 GUI",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/ShindoLife2.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/pisBQkM.png",
-            "ID" : "18"
-        },
-        {
-            "Name": "Shindo Life 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/ShindoLife2AutoFarm2.lua",
-            "Description":  "Autofarm!",
-            "ThumbNail": "https://i.imgur.com/pisBQkM.png",
-            "ID" : "19"
-        },
-        {
-            "Name": "Da Hood Swag Mode",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/SwagModeDH.lua",
-            "Description":  "Crash server, autobuy, y mas!",
-            "ThumbNail": "https://i.imgur.com/x2UeSXb.jpg",
-            "ID" : "20"
-        },
-        {
-            "Name": "Ultimate Tower Defense",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/UltimateTowerDefense.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/gEr9cOR.png",
-            "ID" : "21"
-        },
-        {
-            "Name": "West Bound",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/WestBound.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Template.png",
-            "ID" : "22"
-        },
-        {
-            "Name": "West Bound GUI 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/WestBound2.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Template.png",
-            "ID" : "23"
-        },
-        {
-            "Name": "Your Bizarre Adventure GUI",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/YourBizarreAdventure.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/JeHng0K.png",
-            "ID" : "24"
-        },
-        {
-            "Name": "Your Bizarre Adventure GUI 2",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/YourBizzarreAdventur.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/JeHng0K.png",
-            "ID" : "25"
-        },
-        {
-            "Name": "Blox Fruits Script 3",
-            "Url": "https://cdn.tgxgang.xyz/Scripts/bloxfruitsguilast.lua",
-            "Description":  "Funcionando!",
-            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
-            "ID" : "26"
-        },
 	{
             "Name": "Nuevo - Fish Game",
             "Url": "https://gist.githubusercontent.com/TonyX03/72798f74ce58cdfece98c9c8f5812af2/raw/a467e848eea9233a4f7ab55aa7f4f16860de453b/gistfile1.txt",
@@ -1004,6 +822,188 @@
             "Description": "GUI - Auto Collect Coins!",
             "ThumbNail": "https://i.imgur.com/qJUm4QQ.png",
             "ID" : "49"
+        },
+        {
+            "Name": "Anti AFK",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/AntiAFK.lua",
+            "Description":  "Evita el kick por 20 minutos afk",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/anti_afk.png",
+            "ID" : "1"
+        },
+        {
+            "Name": "Apocalypse Rising",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/ApocalypseRising.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/23c10ab3e3bf5546b7c700e225fd4f15.jpg",
+            "ID" : "2"
+        },
+        {
+            "Name": "Bedwars GUI",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/BedWarsGUI.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
+            "ID" : "3"
+        },
+        {
+            "Name": "Bedwars Aimbot",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/BedwarsGUIAimbotYMas.lua",
+            "Description":  "Aimbot y mas!",
+            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
+            "ID" : "4"
+        },
+        {
+            "Name": "Bedwars GUI 3",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/BedwarsScript2.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/mlOrWm2.png",
+            "ID" : "5"
+        },
+        {
+            "Name": "Bloxfruits GUI",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/BloxFRUITSGUI2.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
+            "ID" : "6"
+        },
+        {
+            "Name": "Bloxfruits GUI 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/BloxFruits.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
+            "ID" : "7"
+        },
+        {
+            "Name": "Combat Warriors GUI",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/CombatWarriors.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/b613dae05739d105e33a35089fdac9fe.jpg",
+            "ID" : "8"
+        },
+        {
+            "Name": "R15 Animaciones",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/FER15Animaciones.lua",
+            "Description":  "Emotes que todos ven",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Template.png",
+            "ID" : "9"
+        },
+        {
+            "Name": "Funky Friday Script 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/FNF.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/8ZEhM90.png",
+            "ID" : "10"
+        },
+        {
+            "Name": "Faded - Da Hood",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/FadedDH.lua",
+            "Description":  "Crash server, fly, lock y mas!",
+            "ThumbNail": "https://i.imgur.com/x2UeSXb.jpg",
+            "ID" : "11"
+        },
+        {
+            "Name": "Jailbreak Autorob",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/JailbreakAUTOROB.lua",
+            "Description":  "Autorob para jailbreak!",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Autorob.jpg",
+            "ID" : "12"
+        },
+        {
+            "Name": "Murder Mistery 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/MM2OP.lua",
+            "Description":  "Kill all, esp, y mas",
+            "ThumbNail": "https://i.imgur.com/IjFiwiI.png",
+            "ID" : "13"
+        },
+        {
+            "Name": "Parkour",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/Parkour.lua",
+            "Description":  "OP!",
+            "ThumbNail": "https://i.imgur.com/vTntCMF.png",
+            "ID" : "14"
+        },
+        {
+            "Name": "Ro Ghoul GUI",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/RoGHOULGUi.lua",
+            "Description":  "Muchas opciones!",
+            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
+            "ID" : "15"
+        },
+        {
+            "Name": "Ro Ghoul - Meehub",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/RoGhoulMEE.lua",
+            "Description":  "Menu de opciones!",
+            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
+            "ID" : "16"
+        },
+        {
+            "Name": "Ro Ghoul GUI 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/RoGhoulgui2.lua",
+            "Description":  "Otro menu!",
+            "ThumbNail": "https://i.imgur.com/76kH8IO.png",
+            "ID" : "17"
+        },
+        {
+            "Name": "Shindo Life 2 GUI",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/ShindoLife2.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/pisBQkM.png",
+            "ID" : "18"
+        },
+        {
+            "Name": "Shindo Life 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/ShindoLife2AutoFarm2.lua",
+            "Description":  "Autofarm!",
+            "ThumbNail": "https://i.imgur.com/pisBQkM.png",
+            "ID" : "19"
+        },
+        {
+            "Name": "Da Hood Swag Mode",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/SwagModeDH.lua",
+            "Description":  "Crash server, autobuy, y mas!",
+            "ThumbNail": "https://i.imgur.com/x2UeSXb.jpg",
+            "ID" : "20"
+        },
+        {
+            "Name": "Ultimate Tower Defense",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/UltimateTowerDefense.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/gEr9cOR.png",
+            "ID" : "21"
+        },
+        {
+            "Name": "West Bound",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/WestBound.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Template.png",
+            "ID" : "22"
+        },
+        {
+            "Name": "West Bound GUI 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/WestBound2.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://cdn.tgxgang.xyz/Preview/Template.png",
+            "ID" : "23"
+        },
+        {
+            "Name": "Your Bizarre Adventure GUI",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/YourBizarreAdventure.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/JeHng0K.png",
+            "ID" : "24"
+        },
+        {
+            "Name": "Your Bizarre Adventure GUI 2",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/YourBizzarreAdventur.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/JeHng0K.png",
+            "ID" : "25"
+        },
+        {
+            "Name": "Blox Fruits Script 3",
+            "Url": "https://cdn.tgxgang.xyz/Scripts/bloxfruitsguilast.lua",
+            "Description":  "Funcionando!",
+            "ThumbNail": "https://i.imgur.com/SzIzm3v.png",
+            "ID" : "26"
         },
         {
             "Name": "Building Architect",
