@@ -1,0 +1,137 @@
+body {
+
+ background-color: #1c1c1c;
+
+ color: white;
+
+}
+
+h1 {
+  font-family: Consolas, "Courier New", monospace;
+}
+
+#content {
+
+  position: absolute;
+
+  left: calc(50% - 230px);
+
+  top: 100px;
+
+  display: inline-block;
+
+  background-color: #282828;
+
+  color: #eeeeee;
+
+  padding: 20px;
+
+  border-radius: 4px;
+
+  width: 460px;
+
+  font-family: Segio UI, sans-serif;
+
+  margin-top: 40px;
+
+}
+
+
+
+#content h1{
+
+  margin-bottom: 0;
+
+  font-family: Segio UI, sans-serif;
+
+  font-size: 24px;
+
+}
+
+
+
+#content p{
+
+  word-break: normal;
+
+  line-height: 1.6;
+
+  font-size: 90%;
+
+  color: #cccccc;
+
+  display: inline;
+
+}
+
+
+
+#desc {
+
+  width: 300px;
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+}
+
+
+
+#content img {
+
+  max-width: 120px;
+
+  max-height: 160px;
+
+  float: right;
+
+}
+
+
+
+#content a{
+
+  text-decoration: none;
+
+  color: #eeeeee;
+
+}
+
+
+
+#content a:hover{
+
+  text-decoration: underline;
+
+}
+
+
+
+#info {
+
+  color: #cccccc;
+
+}
+
+
+
+#content p{
+
+  width: 500px; 
+
+}
+
+
+
+.info-section {
+
+  border-top: 1px solid rgba(0,0,0,0.4);
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+  font-size: 90%;
+
+}
