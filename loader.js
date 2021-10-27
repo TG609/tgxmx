@@ -53,7 +53,7 @@ const openFile = fname => {
             handledata(xhr.responseText);
         }
     }
-    xhr.open("GET", `/userwiki/files/${fname}`);
+    xhr.open("GET", `/files/${fname}`);
     xhr.send();
 }
 
@@ -75,10 +75,10 @@ window.onload = () => {
             updateList(xhr.responseText);
         }
     }
-    xhr.open("GET", "/userwiki/list.json");
+    xhr.open("GET", "/list.json");
     xhr.send();
     document.getElementById("users").onchange = ()=>{
         openFile(document.getElementById("users").value);
     }
-    openFile("greenman.json");
+    openFile("Gabloxia.json");
 }
